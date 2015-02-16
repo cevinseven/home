@@ -10,7 +10,7 @@ Thumbs.db
 node_modules
 _OLD
 *.psd
-verify/*
+verify/
 
 # Compiled source #
 ###################
